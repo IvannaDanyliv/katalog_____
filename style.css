@@ -1,0 +1,41 @@
+h1{
+    color: grey;
+}
+body{
+    background-color: rgb(20, 19, 19);
+    font-family:sans-serif;
+}
+p{
+    color: grey;
+}
+h2{
+    color: grey;
+}
+h3{
+    color: grey;
+}
+h4{
+    color: grey;
+}
+h5{
+    color: grey;
+}
+.samsung{
+    border-radius: 30px;
+}
+.iphone{
+    border-radius: 30px;
+}
+.airpods{
+    border-radius: 30px;
+}
+.laptop{
+    border-radius: 30px;
+}
+article{
+    display: flex;
+}
+.logotyp{
+    border: 2px solid white;
+    border-radius: 30px;
+}
